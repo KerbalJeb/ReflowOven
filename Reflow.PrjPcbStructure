@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Reflow.SchDoc
+Record=SheetSymbol|SourceDocument=Reflow.SchDoc|Designator=U_Micro|SchDesignator=U_Micro|FileName=Micro.SchDoc|SymbolType=Normal|RawFileName=Micro.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Reflow.SchDoc|Designator=U_PowerSupply|SchDesignator=U_PowerSupply|FileName=PowerSupply.SchDoc|SymbolType=Normal|RawFileName=PowerSupply.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Micro.SchDoc|Designator=U_Thermocouple|SchDesignator=U_Thermocouple|FileName=Thermocouple.SchDoc|SymbolType=Normal|RawFileName=Thermocouple.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
