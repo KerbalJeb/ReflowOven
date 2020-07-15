@@ -174,7 +174,7 @@ GenerateClassCluster=0
 DocumentUniqueId=SYVPIYMV
 
 [Document9]
-DocumentPath=Job1.OutJob
+DocumentPath=jlc.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -191,7 +191,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document10]
-DocumentPath=jlc.OutJob
+DocumentPath=Reflow.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
